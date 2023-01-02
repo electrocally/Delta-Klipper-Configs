@@ -1,13 +1,13 @@
 # Delta Klipper Configuration
 
-These configuration files are for my own extremely modified AnyCubic Kossel Linear Plus.
-⚠️ _THESE WILL NOT WORK FOR THE STOCK MODEL AND WILL DAMAGE A STANDARD MACHINE!_ 🚧
+These configuration files are for my own extremely modified AnyCubic Kossel Linear Plus.  
+⚠️ **THESE WILL NOT WORK FOR THE STOCK MODEL AND WILL DAMAGE A STANDARD MACHINE!** 🚧
 
 Configurations are provided as-is as they are solely for my own personal use, but have been uploaded to a public repository for anyone to use as reference.
 
 Please follow the [official Klipper documentation](https://www.klipper3d.org/) whenever configuring your own machine.
 
-t;lr I can't be held responsible if you break your own machine.
+t;lr I can't be held responsible if you break your printer.
 
 ---
 
@@ -26,7 +26,7 @@ This configuration is for a [Duet Smart Effector](https://www.duet3d.com/DeltaSm
 
 ### Extruder
 
-Configs are for an [Orbiter 2.0](https://orbiterprojects.com/orbiter-v2-0/). Your retraction rate, pressure advance,
+Configs are for an [Orbiter 2.0](https://orbiterprojects.com/orbiter-v2-0/). Your retraction rate, pressure advance, will differ. Please follow their docs or you'll damage the unit & melt the gears, which I still have terrifying visions of to this day.
 
 ### Resonance Compentation
 
